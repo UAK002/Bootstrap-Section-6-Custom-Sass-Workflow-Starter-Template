@@ -1,0 +1,14 @@
+{
+  "name": "bs5",
+  "version": "1.0.0",
+  "description": "Starter Template for Bootstrap Websites",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass scss:css"
+  },
+  "author": "Usman Ali Khan",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
